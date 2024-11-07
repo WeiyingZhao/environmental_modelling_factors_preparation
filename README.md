@@ -36,7 +36,6 @@ By leveraging GEE, these notebooks streamline access to vast, high-quality envir
   year={2023}
 }
 
-```bash
 @article{zhao2024soil,
   title={Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images},
   author={Zhao, Weiying and Chuluunbat, Ganzorig and Unagaev, Aleksei and Efremova, Natalia},
