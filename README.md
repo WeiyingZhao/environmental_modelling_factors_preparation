@@ -25,3 +25,19 @@ This notebook covers the processing of Landsat imagery from GEE. It includes ste
 This notebook focuses on deriving terrain features (elevation, slope, aspect) from digital elevation models available in GEE. These features are essential for hydrological and erosion studies and are processed to align with other environmental datasets.
 
 By leveraging GEE, these notebooks streamline access to vast, high-quality environmental datasets, supporting efficient data preparation for a wide range of research and modeling applications.
+
+# Reference
+
+@article{zhao2023soil,
+  title={Soil organic carbon estimation from climate-related features with graph neural network},
+  author={Zhao, Weiying and Efremova, Natalia},
+  journal={NeurIPS 2023 workshop: Tackling Climate Change with Machine Learning},
+  year={2023}
+}
+
+@article{zhao2024soil,
+  title={Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images},
+  author={Zhao, Weiying and Chuluunbat, Ganzorig and Unagaev, Aleksei and Efremova, Natalia},
+  journal={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium},
+  year={2024}
+}
