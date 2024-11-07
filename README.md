@@ -26,7 +26,7 @@ This notebook focuses on deriving terrain features (elevation, slope, aspect) fr
 
 By leveraging GEE, these notebooks streamline access to vast, high-quality environmental datasets, supporting efficient data preparation for various research and modelling applications. 
 
-Various GEE download methods—such as point-based, time-series-based, single-image, and multi-temporal image downloads—can be easily adapted to retrieve other satellite datasets available through GEE.
+# Various GEE download methods—such as point-based, time-series-based, single-image, and multi-temporal image downloads—can be easily adapted to retrieve other satellite datasets available through GEE.
 
 # Reference
 
