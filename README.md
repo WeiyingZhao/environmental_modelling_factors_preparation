@@ -6,7 +6,7 @@ This repository contains a series of Jupyter notebooks designed for preparing va
 ### Sentinel-2-data-preparation.ipynb
 This notebook provides a workflow for accessing and preparing Sentinel-2 multispectral data from GEE, focusing on spectral bands relevant to vegetation indices like NDVI. It includes cloud masking, spatial/temporal resampling, and preprocessing steps essential for environmental and agricultural analysis.
 
-### climate-features-preparation.ipynb
+### Climate-features-preparation.ipynb
 This notebook extracts climate-related features (temperature, precipitation, etc.) from GEE's extensive climate data archives. Data cleaning, anomaly handling, and feature engineering are covered to create a robust climate dataset for integrated analyses.
 
 ### Sentinel-1-feature-preparation.ipynb
@@ -15,13 +15,13 @@ Here, you’ll find methods for processing Sentinel-1 SAR data accessed from GEE
 ### MODIS-vegetation-condition.ipynb
 This notebook demonstrates how to prepare MODIS vegetation condition data from GEE. It focuses on time-series analysis and anomaly detection, allowing for the monitoring of vegetation health over time.
 
-### soil-attributes-preparation.ipynb
+### Soil-attributes-preparation.ipynb
 This notebook details the preparation of soil parameters (e.g., texture and organic matter) for environmental modelling using soil attribute datasets available on GEE.
 
 ### Landsat-data-preparation.ipynb
 This notebook covers the processing of Landsat imagery from GEE. It includes steps like cloud masking and shows how to derive spectral indices useful for land cover and ecosystem analysis.
 
-###  terrain-feature-preparation.ipynb
+###  Terrain-feature-preparation.ipynb
 This notebook focuses on deriving terrain features (elevation, slope, aspect) from digital elevation models available in GEE. These features are essential for hydrological and erosion studies and are processed to align with other environmental datasets.
 
 By leveraging GEE, these notebooks streamline access to vast, high-quality environmental datasets, supporting efficient data preparation for various research and modelling applications. 
