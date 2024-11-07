@@ -28,6 +28,7 @@ By leveraging GEE, these notebooks streamline access to vast, high-quality envir
 
 # Reference
 
+```bash
 @article{zhao2023soil,
   title={Soil organic carbon estimation from climate-related features with graph neural network},
   author={Zhao, Weiying and Efremova, Natalia},
