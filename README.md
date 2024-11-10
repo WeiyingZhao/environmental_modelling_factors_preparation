@@ -7,7 +7,7 @@ This repository contains a series of Jupyter notebooks designed to prepare vario
 </p>
 
 <p align="center">
- A scenario of multiscale climate features.
+ A scenario of multiscale climate features (Liu, D. 2019).
 </p>
 
 ## Notebooks Overview
