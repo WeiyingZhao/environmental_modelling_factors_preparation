@@ -1,18 +1,24 @@
 # Environmental modelling factors preparation
 
-This repository contains a series of Jupyter notebooks designed for preparing various environmental datasets for use in remote sensing, agriculture, climate studies, and environmental modeling. All data utilized in these workflows is accessed and processed through Google Earth Engine (GEE), a powerful platform that enables efficient and scalable analysis of large geospatial datasets. Thanks to GEE for providing access to these valuable datasets.
+This repository contains a series of Jupyter notebooks designed to prepare various environmental datasets for use in remote sensing, agriculture, climate studies, and environmental modelling. All data utilized in these workflows is accessed and processed through Google Earth Engine (GEE), a powerful platform that enables efficient and scalable analysis of large geospatial datasets. Thanks to GEE for providing access to these valuable datasets.
 
-<img src="micro_climate_figure.png" alt="Example Image" width="500"/>
+<p align="center">
+  <img src="micro_climate_figure.png" alt="Example Image" width="500"/>
+</p>
+
+<p align="center">
+ A scenario of multiscale climate features.
+</p>
 
 ## Notebooks Overview
 ### Sentinel-2-data-preparation.ipynb
 This notebook provides a workflow for accessing and preparing Sentinel-2 multispectral data from GEE, focusing on spectral bands relevant to vegetation indices like NDVI. It includes cloud masking, spatial/temporal resampling, and preprocessing steps essential for environmental and agricultural analysis.
 
 ### Climate-features-preparation.ipynb
-This notebook extracts climate-related features (temperature, precipitation, etc.) from GEE's extensive climate data archives. Data cleaning, anomaly handling, and feature engineering are covered to create a robust climate dataset for integrated analyses.
+This notebook extracts climate-related features (temperature, precipitation, etc.) from GEE's extensive climate data archives. It covers data cleaning, anomaly handling, and feature engineering to create a robust climate dataset for integrated analyses.
 
 ### Sentinel-1-feature-preparation.ipynb
-Here, you’ll find methods for processing Sentinel-1 SAR data accessed from GEE. The notebook includes point based, time series and multitemporal image downloading ways.
+Here, you’ll find methods for processing Sentinel-1 SAR data accessed from GEE. The notebook includes point-based, time series, and multitemporal image downloading methods.
 
 ### MODIS-vegetation-condition.ipynb
 This notebook demonstrates how to prepare MODIS vegetation condition data from GEE. It focuses on time-series analysis and anomaly detection, allowing for the monitoring of vegetation health over time.
