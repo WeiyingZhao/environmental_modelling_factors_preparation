@@ -2,6 +2,8 @@
 
 This repository contains a series of Jupyter notebooks designed for preparing various environmental datasets for use in remote sensing, agriculture, climate studies, and environmental modeling. All data utilized in these workflows is accessed and processed through Google Earth Engine (GEE), a powerful platform that enables efficient and scalable analysis of large geospatial datasets. Thanks to GEE for providing access to these valuable datasets.
 
+![Example Image](micro_climate_figure.png)
+
 ## Notebooks Overview
 ### Sentinel-2-data-preparation.ipynb
 This notebook provides a workflow for accessing and preparing Sentinel-2 multispectral data from GEE, focusing on spectral bands relevant to vegetation indices like NDVI. It includes cloud masking, spatial/temporal resampling, and preprocessing steps essential for environmental and agricultural analysis.
